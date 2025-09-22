@@ -30,4 +30,4 @@ See 'Dist_Calculator.ino' for full code.
 ## Circuit
 See 'Distance calculator.png' for circuit diagram.
 
-*Future updates hardware bult & testing coming soon.*
+*Future updates hardware built & testing coming soon.*
